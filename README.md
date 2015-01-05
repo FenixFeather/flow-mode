@@ -25,6 +25,7 @@ Here’s some of the most useful shortcuts (C- means control, M- means alt, S- m
 <tr><td class="left">C-arrow keys</td><td class="left">Move between headings</td></tr>
 <tr><td class="left">C-/</td><td class="left">Undo</td></tr>
 <tr><td class="left">C-n, p, b, or f</td><td class="left">Move down, up, left, right</td></tr>
+<tr><td class="left">C-c `</td><td class="left">Edit/view overflowed cell</td></tr>
 </tbody>
 </table>
 
@@ -38,6 +39,7 @@ Here’s some of the most useful shortcuts (C- means control, M- means alt, S- m
 <!-- | C-arrow keys    | Move between headings      | -->
 <!-- | C-/             | Undo                       | -->
 <!-- | C-n, p, b, or f | Move down, up, left, right | -->
+<!-- | C-c `           | Edit/view overflowed cell  | -->
 
 - S-tab over heading to collapse/uncollapse all
 - M-arrow keys to move heading underneath point up or down (to reorder flows).
